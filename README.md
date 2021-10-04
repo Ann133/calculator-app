@@ -18,5 +18,7 @@ The following features were implented:
 
 I also used Figma to create the wireframe for the app.
 
-![image](https://user-images.githubusercontent.com/61714473/135807827-b0534a0e-8d78-4aeb-b8e8-4307d416907b.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61714473/135807827-b0534a0e-8d78-4aeb-b8e8-4307d416907b.png" alt="Wireframe screenshot" />
+</p>
 
