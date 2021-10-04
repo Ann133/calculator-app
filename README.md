@@ -16,4 +16,5 @@ The following features were implented:
 
 I also used Figma to create the wireframe for the app.
 
-[Calculator.pdf](https://github.com/Ann133/calculator-app/files/7276024/Calculator.pdf)
+![image](https://user-images.githubusercontent.com/61714473/135807827-b0534a0e-8d78-4aeb-b8e8-4307d416907b.png)
+
