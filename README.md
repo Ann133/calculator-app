@@ -19,5 +19,5 @@ The following features were implented:
 I also used Figma to create the wireframe for the app.
 
 <p align="center">
-  <img width="200" src="[Calculator.pdf](https://github.com/Ann133/calculator-app/files/7275988/Calculator.pdf)">
+  <img width="200" src="https://github.com/Ann133/calculator-app/files/7275988/Calculator.pdf">
 </p>
