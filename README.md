@@ -1,7 +1,9 @@
 # Calculator App
 A React Calculator app built using Madars Biss' tutorial including making wireframe, designing a layout, creating components, updating states, and formatting the output.
 
-![Alt Text](https://media.giphy.com/media/MzEQrUzJyBH1Q6444A/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/MzEQrUzJyBH1Q6444A/giphy.gif" alt="Animated run-through of app" />
+</p>
 
 This is a calculator built using a tutorial made by Madars Biss - https://www.sitepoint.com/react-tutorial-build-calculator-app/?utm_medium=email&utm_campaign=spw-37&utm_source=sitepoint-weekly.
 
